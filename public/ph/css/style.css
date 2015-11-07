@@ -1,0 +1,32 @@
+/*SIZE Specifics*/
+@media(max-width:767px){
+	body{
+	background-image: url('../img/ep_bg_v2_360px.jpg');
+	background-repeat:no-repeat;
+	background-size: 100%;
+	}
+	.about, .games{
+	margin: 25px auto;
+	}
+}
+@media(min-width:768px){
+	body{
+	background-image: url('../img/ep_bg_v2_768px.jpg');
+	background-repeat:no-repeat;
+	background-size: 100%;
+	}
+}
+@media(min-width:992px){
+	body{
+	background-image: url('../img/ep_bg_v2.jpg');
+	background-repeat:no-repeat;
+	background-size: 100%;
+	}
+}
+@media(min-width:1200px){
+
+}
+
+.logo{
+	margin: 25% auto 0;
+}
