@@ -31,4 +31,4 @@ It's an MVP, code isn't perfect (I managed to recover only some dev files and pr
 If you would like to read more about time zones, here is [an article](https://belardesign.com/2014/01/09/laravel-the-timemaster-time-convertions-with-datetime-php/).  
 
 ## Support  
-This repo is in no way a maintained product. I provide it in "as-is" state, for pure educational purposes. Today (2015), I would build it in different way, with different tools.
+This repo is in no way a maintained product. I provide it in "as-is" state, for pure educational purposes. Today (2015), I would build it in a different way, with different tools.
